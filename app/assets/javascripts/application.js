@@ -19,3 +19,4 @@
 //= require bootstrap/js/bootstrap.bundle.min
 //= require jquery-easing/jquery.easing.min
 //= require js/resume.min
+//= require fontawesome/js/all.min

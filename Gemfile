@@ -5,7 +5,6 @@ ruby '2.5.1'
 
 gem 'font-mfizz-rails', '~> 1.1', '>= 1.1.2'
 gem 'font-awesome-rails'
-gem 'font-awesome-sass', '~> 5.12.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4'
