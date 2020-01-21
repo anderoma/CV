@@ -17,5 +17,36 @@
  *= require css/resume.min
  *= require font-mfizz
  *= require fontawesome/css/all.min
- 
  */
+
+ .fa-php,
+ .fa-symfony{
+  position: relative;
+  top: 3px;
+  margin-right: 0,5%;
+ }
+ .icon-ruby{
+  position: relative;
+  top: 3px;
+ }
+ .icon-c{
+  font-size: 55px;
+  position: relative;
+  top: 8px;
+  margin-left: -30%;
+ }
+ .icon-heroku{
+  margin-left: -20%;
+ }
+ .icon-bootstrap{
+  font-size: 48px;
+  margin-left: -10%;
+ }
+ .fa-trello{
+  margin-left: -5%;
+ }
+
+ .fa-trello:hover,
+ .fa-js-square:hover{
+  color: #4A86E8;
+ }
