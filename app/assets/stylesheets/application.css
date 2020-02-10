@@ -19,6 +19,17 @@
  *= require fontawesome/css/all.min
  */
 
+ .fa-laravel:hover,
+ .fa-php:hover,
+ .fa-symfony:hover{
+  color: #4A86E8;
+ }
+
+ .fa-laravel{
+  position: relative;
+  top: 9px;
+  margin-left: 2%;
+ }
  .fa-php,
  .fa-symfony{
   position: relative;
