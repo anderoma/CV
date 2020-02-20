@@ -19,6 +19,15 @@
  *= require fontawesome/css/all.min
  */
 
+ .git{
+  position: relative;
+  top: 2px;
+  margin-left: 2%;
+ }
+ .git:hover{
+   color:  gray;
+ }
+
  .fa-laravel:hover,
  .fa-php:hover,
  .fa-symfony:hover{
