@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.5.1'
+ruby '3.1.2'
 
 gem 'font-mfizz-rails', '~> 1.1', '>= 1.1.2'
 gem 'font-awesome-rails'
 
+gem 'nokogiri', '~> 1.12', '>= 1.12.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.4'
 # Use postgresql as the database for Active Record
